@@ -9,10 +9,6 @@ This project is a backend implementation for a social network, developed using t
 - **User Management (`/api/v1/user`):** Enables retrieving user details, deleting users, and updating usernames, emails, or passwords.
 - **Registration (`/api/v1/registration`):** Handles new user registrations.
 
-## Project Status
-
-This project is currently in development. Regular updates and improvements are being made.
-
 ## Getting Started
 
 ### Prerequisites
